@@ -1,0 +1,10 @@
+streamlit
+numpy
+cv2
+Keras-Applications
+keras-models
+random
+matplotlib
+tensorflow
+pandas
+pillow
